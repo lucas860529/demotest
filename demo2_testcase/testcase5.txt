@@ -1,0 +1,5 @@
+add
+wrong_add
+add
+wrong add
+exit

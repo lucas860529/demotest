@@ -8,3 +8,10 @@ step3: 執行main.py並讀一下一開始的說明
 
 usage:
 python3 main.py {filename_path}
+
+# pythonplag
+
+uasage:
+command: python3 detect.py 學號姓名
+e.g. `python3 detect 110034561洪聖博`
+

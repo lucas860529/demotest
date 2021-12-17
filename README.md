@@ -13,5 +13,5 @@ python3 main.py {filename_path}
 
 uasage:
 command: python3 detect.py 學號姓名
-e.g. `python3 detect.py 110034561洪聖博`
+e.g. `python3 detect.py 1100
 

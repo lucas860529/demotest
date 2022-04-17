@@ -1,0 +1,9 @@
+# add 2 & view
+
+1000
+add
+hotdog -50
+add
+catfood -100
+view
+exit

@@ -1,0 +1,4 @@
+# 測 wrong command
+
+wrong_command
+exit

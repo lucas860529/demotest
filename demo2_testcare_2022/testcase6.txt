@@ -1,0 +1,6 @@
+# 測 delete
+
+delete
+hotdog -50
+view
+exit

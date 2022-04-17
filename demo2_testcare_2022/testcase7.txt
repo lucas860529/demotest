@@ -1,0 +1,7 @@
+# 測 wrong delete
+
+delete
+wrong_delete
+delete
+coffee -120
+exit

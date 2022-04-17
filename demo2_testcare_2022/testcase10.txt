@@ -1,0 +1,3 @@
+# 把 records.txt內容 手動改為 1000換行aaa 之後 進程式再出來
+
+exit

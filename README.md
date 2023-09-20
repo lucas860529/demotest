@@ -1,3 +1,6 @@
+This is a scitpt for TAs to automatically test the demo files in python class.
+
+
 # demotest
 
 step1: git clone 

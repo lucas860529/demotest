@@ -1,4 +1,4 @@
-This is a scitpt for TAs to automatically test the demo files in python class.
+This is a scitpt for TAs to automatically test the demo files and check if plagiarism.
 
 
 # demotest
